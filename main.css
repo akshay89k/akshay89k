@@ -1,0 +1,46 @@
+.c0{
+    display: flex;
+    width:90%;
+    align-items: center;
+    justify-content: space-between;
+    height:100%;
+    
+}
+
+.c1{
+    display: flex;
+    flex: 0.7; 
+    justify-content:flex-start;
+    
+    
+}
+
+.c2{
+    display: flex;
+    flex: 0.3;
+    justify-content: space-around;
+   
+}
+.c3{
+    display: flex;
+    flex: 0.1;
+    justify-content: center;  
+}
+
+.c4{
+    display: flex;
+    flex: 0.9;
+    justify-content: flex-start;
+   
+    
+}
+
+.c4>ul{
+    display: flex;
+    list-style-type: none;
+    justify-content:space-evenly;
+    flex: 0.7;
+    margin: 1%;
+    align-items: center;
+
+}
